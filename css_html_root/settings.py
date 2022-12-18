@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-rb+kath$)(1#w8vjru2^g4ru*(&5i9f4n(#uad!tg_b&jq7h$g'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*', 'https://git.heroku.com/cheatsheet.git']
 

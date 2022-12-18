@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+html {
+    background-image: url('beautiful-sunset-beach-1.jpg');
+    background-size: cover;
+}
+
+#header {
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: 'Diplomata SC', cursive;
+    color: rgb(219, 116, 21);
+
+
+}
+
+a,
+table,
+td {
+    font-size: 20;
+    background-color: rgba(0, 0, 0, .3);
+    color: rgb(219, 116, 21);
+    font-family: 'Diplomata SC', cursive;
+    padding: 10px;
+}
+
+th {
+    color: rgb(219, 116, 21);
+    font-size: 20px;
+    margin: 1px 20%;
+    border: 5px solid rgba(215, 148, 24, 80)
+}
+
+td {
+    color: orange;
+}
+
+table {
+    color: rgb(211, 87, 42);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+td {
+    border-bottom: 3px solid;
+}
